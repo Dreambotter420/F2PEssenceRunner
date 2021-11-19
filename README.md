@@ -5,6 +5,8 @@ A script that runs pure essence from bank to air or body altar & can only be ran
 
 -55k XP/hr and 200k gp/hr at air altar and 95k XP/hr at body altar in F2P (with enough bots (20+)).
 
+-Each runner will continuously try to send trade requests with short time periods of delay until they succesfully send a trade request to the non-occupied player, then wait ~60 seconds until  trade window opens, if it doesn't it requests another trade
+
 -Isolated area where humans are able to recognize "bot farm": Bots will not leave an obvious ant trail to your Runecrafter account which is blasting through RC levels, and only stack up at Mule Tile/world and Altar Area/world, even so they generally hop into the custom world on a single tile, trade, and hop out, so there is no mass movement amongst the bots. The exception is when your Runecrafter is more than 1 tile away from the trade tile.
 
 -Lazily set up your numerous runner bots by only having to manually interface with a mule account which all the bots come to and trade over noted supplies before running can engage. Can be the same account that is doing the Crafting.
